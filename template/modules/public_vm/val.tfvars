@@ -4,4 +4,4 @@ aws_zone = "us-west-2a"
 
 admin_user ="centos"
 
-env_name= "example"
+env_name= "nely-example"
