@@ -45,7 +45,3 @@ variable "env_name" {
     default = "example"
 }
 
-variable "tfvars" {
-    type = string
-    description = "file name of .tfvars"
-}
