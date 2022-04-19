@@ -6,8 +6,8 @@ admin_user= "centos"
 
 env_name= "nely-example"
 
-admin_key_public=
+admin_key_public=""
 
-access_key=
+access_key=""
   
-secret_key=
+secret_key=""
