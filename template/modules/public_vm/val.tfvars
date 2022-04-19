@@ -6,8 +6,8 @@ admin_user= "centos"
 
 env_name= "nely-example"
 
-admin_key_public={get_attribute: [agent_key, public_key_export]}
+admin_key_public=
 
-access_key={get_secret: aws_access_key_id}
+access_key=
   
-secret_key={get_secret: aws_secret_access_key}
+secret_key=
